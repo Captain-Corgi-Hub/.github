@@ -36,7 +36,7 @@ We believe in the power of open-source collaboration. Whether you’re fixing bu
 
 ## 📬 Contact Us
 
-Have questions, suggestions, or feedback? Reach out to us via [GitHub Issues](#) or email us at contact@captaincorgihub.com. We’d love to hear from you!
+Have questions, suggestions, or feedback? Reach out to us via [GitHub Issues](#) or email us at [captain-corgi@TBD.com](#). We’d love to hear from you!
 
 ## 🌐 Stay Connected
 
