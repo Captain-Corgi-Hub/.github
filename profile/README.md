@@ -21,8 +21,9 @@ Our platform currently offers boilerplates and templates for the following langu
 
 - **Golang**: High-performance templates ideal for microservices and backend systems.
 - **Java**: Robust and scalable starter kits for enterprise-grade applications.
+- **Python**: Versatile and easy-to-use templates perfect for AI, data science, and web applications.
 
-*Other languages such as Python, JavaScript, and C# are coming soon! Stay tuned.*
+*Other languages such as JavaScript, Typescript, C#, Ruby, Rush are coming soon! Stay tuned.*
 
 ## 📚 Getting Started
 
